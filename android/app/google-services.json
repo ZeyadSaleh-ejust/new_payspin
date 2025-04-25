@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "662471905267",
+    "firebase_url": "https://payspin-app-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "payspin-app",
+    "storage_bucket": "payspin-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662471905267:android:6641db66e764ed413d8c86",
+        "android_client_info": {
+          "package_name": "payspin.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662471905267-sp5osn5n3bm8l7q1k7mn2mqtrr9h967v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "payspin.app",
+            "certificate_hash": "3773c8e0d1ce746d142dde774e68255cca2f338d"
+          }
+        },
+        {
+          "client_id": "662471905267-ipus63s9g4ecutodtkvburjobj7m78la.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCke7QBRN9s2PexCLOhLGO6WVPiOn7KnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662471905267-ipus63s9g4ecutodtkvburjobj7m78la.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "662471905267-67m9mnqfvsv44bll0dogflsfafeqo268.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "payspin.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

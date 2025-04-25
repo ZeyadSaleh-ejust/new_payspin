@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>662471905267-67m9mnqfvsv44bll0dogflsfafeqo268.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.662471905267-67m9mnqfvsv44bll0dogflsfafeqo268</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>662471905267-sp5osn5n3bm8l7q1k7mn2mqtrr9h967v.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBA4BbJGR-Gxki5-tiFaE87kjUEhDXXbuU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>662471905267</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>payspin.app</string>
+	<key>PROJECT_ID</key>
+	<string>payspin-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>payspin-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:662471905267:ios:cf1d25625c4c4ee53d8c86</string>
+	<key>DATABASE_URL</key>
+	<string>https://payspin-app-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

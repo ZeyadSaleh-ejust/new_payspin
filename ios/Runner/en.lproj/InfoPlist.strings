@@ -1,0 +1,3 @@
+PermissionGroupNotification = "The app is asking for Notification permission to keep user updated with Payspin activities, news and feeds.";
+NSLocationWhenInUseUsageDescription = "The app is requesting location to adjust language and targeted messages per user country.";
+NSFaceIDUsageDescription = "For login";
